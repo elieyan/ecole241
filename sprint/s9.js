@@ -1,0 +1,1 @@
+if ( nbre > max ) max = nbre;

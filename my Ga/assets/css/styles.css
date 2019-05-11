@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body{
+	background-image:url("/home/noubissi/Documents/TROUVER DE L'AIDE/ecole 241/my Ga/assets/img/gab.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+a{
+	text-decoration: none;
+	color: #E0E0E0;
+}
+nav li{
+	display: inline-block;
+}
+.icon {
+		font-size: 30px;
+		height: 10px;
+		position: relative;
+		left: 550px;
+		color: #43A047;
+
+	}
+#header {
+		text-align: center;
+	    width: 100%;
+		text-align: center;
+}
+#header h1 {
+			font-size: 4.35em;
+			font-weight: 900;
+			letter-spacing: -0.030em;
+			line-height: 1em;
+			font-family: Montserrat, sans-serif;
+		}
+#header p {
+			font-size: 2em;
+			margin: 0;
+			background-color: #44bd32;
+			color:#E0E0E0;
+			text-decoration: none;
+			word-spacing: 10px;
+			font-family:'Lemonada', cursive;
+		}
+#header .bg{
+	background-color: #7f8fa6;
+}
+#footer {
+		font-family:'Cormorant Infant', serif;
+		width: 100%;
+		background-color: #FAFAFA;
+		position: relative;
+		top:500px;
+	}
